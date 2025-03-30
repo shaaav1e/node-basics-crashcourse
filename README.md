@@ -1,6 +1,6 @@
 # Node.js Crash Course Practice
 
-This repository contains examples from my Node.js crash course. It covers fundamental concepts and practical implementations of Node.js applications.
+This repository contains examples from my Node.js crash course. It covers fundamental concepts of Node.
 
 ## Main Chapters
 
